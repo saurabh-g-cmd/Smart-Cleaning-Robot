@@ -12,6 +12,7 @@ A modern responsive web dashboard is developed for real-time robot interaction. 
 The project demonstrates the practical implementation of IoT, embedded systems, robotics, sensor integration, automation, and wireless communication in a real-world smart cleaning application. It can further be upgraded with AI-based navigation, voice control, live camera streaming, room mapping, and mobile application integration.
 
 ✨ Features
+
 📱 Responsive Web Control UI
 🤖 Auto + Manual Navigation
 🚧 Front, Left & Right Obstacle Detection
