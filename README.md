@@ -40,7 +40,6 @@ SSID: SMART_ROBOT
 Password: 12345678
 
 Open in browser: 192.168.4.1
-
-                                                                                                                                     👨‍💻 Developed By 
+                                                                                                                                    👨‍💻 Developed By 
                                                                                                                                      Saurabh Gupta 
                                                                                                                                      Smart Robotics Project
